@@ -1,8 +1,9 @@
 # My Wiki
-
 A wiki containing some gathered knowledge and subjective experience. Not guaranteed to be true, but might be helpful.
 
-## RTEMS 
+## RTEMS
+A Real-Time Executive for Multiprocessor Systems, as described on [Rtems](https://en.wikipedia.org/wiki/RTEMS) Wikipedia site. A RTOS for embedded systems.
+
 [RTEMS TMS570 tutorial](Rtems-tms570-tutorial.md)- a tutorial on how to install RTEMS, compile a simple project and run it on hardware.  
 [RTEMS tutorial PL (STM32)](Rtems-tutorial.md)  
 [RTEMS Boot](Rtems-boot.md) - a description fo RTEMS boot process, especially called functions and their location.  
