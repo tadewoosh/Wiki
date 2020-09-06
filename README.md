@@ -1,6 +1,13 @@
-# My Wiki
-A wiki containing some gathered knowledge and subjective experience. Not guaranteed to be true, but might be helpful.
+# Projects
 
+## CNC Router/mill
+A project of a 3-axis cartesian CNC machine for woodworking and some ligth metalworking. Consists of two reposirories:
+* [Electrical Project](https://github.com/tadewoosh/CNC-mill-electrical) 
+* [Mechanical Project](https://github.com/tadewoosh/CNC-mill-mechanical) 
+
+
+# Knowledgebase
+A wiki containing some gathered knowledge and subjective experience. Not guaranteed to be true, but might be helpful.
 ## RTEMS
 A Real-Time Executive for Multiprocessor Systems, as described on [Rtems](https://en.wikipedia.org/wiki/RTEMS) Wikipedia site. A RTOS for embedded systems.
 
