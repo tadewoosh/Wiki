@@ -1,17 +1,18 @@
-# HyperSat On Board Software Wiki Home Page
+# My Wiki Home Page
 
 ## Tutorials & Know-How
+
 [RTEMS TMS570 tutorial](Rtems tms570 tutorial)- a tutorial on how to install RTEMS, compile a simple project and run it on hardware.  
 [RTEMS tutorial PL (STM32)](Rtems tutorial)  
 [Linux Eclipse tutorial](Linux eclipse tutorial) - a tutorial on how to get and configure Eclipse to use a Makefile.  
-[Coding Standards](Coding standards) - a short list of rules to follow when writing any C code for the project.  
-[Misra C 2004](Misra c 2004) - a brief rules set and the a link to full standard.  
+[Coding Standards](Coding standards) - a short list of rules to follow when writing any C code for the project.    
 [RTEMS Boot](Rtems boot) - a description fo RTEMS boot process, especially called functions and their location.  
 [Linux C: Serial Port and Sockets](Linux c serial port and sockets) - a tutorial for writing a multitasking Linux bridge between Sockets and Serial Port.  
 [Tms570 Develepment Board](Tms570 develepment board) - info, links and stuff about the devboard.  
 [Linux QT Tutorial for SerialServer](Linux qt tutorial for serialserver) - a tutorial on how to make a desktop app using QT.
 
 ## Design 
+
 [Obsw architecture](OBSW Architecture) - Graphs and pictures of OBSW dataflow, tasks and interfaces.  
 [Bootloader](Bootloader) - The OBC MCU Bootloader Requirements and Design.  
 [Main Application](Main application) - The OBC MCU Main Application Requirements and Design.  
