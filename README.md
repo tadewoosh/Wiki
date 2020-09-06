@@ -2,7 +2,7 @@
 
 ## Tutorials & Know-How
 
-[RTEMS TMS570 tutorial](Rtems tms570 tutorial)- a tutorial on how to install RTEMS, compile a simple project and run it on hardware.  
+[RTEMS TMS570 tutorial](Rtems-tms570-tutorial.md)- a tutorial on how to install RTEMS, compile a simple project and run it on hardware.  
 [RTEMS tutorial PL (STM32)](Rtems tutorial)  
 [Linux Eclipse tutorial](Linux eclipse tutorial) - a tutorial on how to get and configure Eclipse to use a Makefile.  
 [Coding Standards](Coding standards) - a short list of rules to follow when writing any C code for the project.    
