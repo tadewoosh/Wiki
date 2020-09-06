@@ -1,5 +1,11 @@
 #include "slip.h"
 
+/* definitions of the special SLIP characters */
+#define SLIP_END			(unsigned char)(0xC0)
+#define SLIP_ESC			(unsigned char)(0xDB)
+#define SLIP_ESC_END		(unsigned char)(0xDC)
+#define SLIP_ESC_ESC		(unsigned char)(0xDD)
+
 int slip(unsigned char * inbuff, unsigned char * outbuff, int length, int maxlength)
 {
     if (length < 1)
