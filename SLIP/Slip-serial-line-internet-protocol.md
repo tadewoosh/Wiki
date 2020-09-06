@@ -18,4 +18,7 @@ SLIP modifies the data sequence to be sent by:
 | 0xDC | 220 | 334 | ESC_END | Transposed Frame End |
 | 0xDD | 221 | 335 | ESC_ESC | Transposed Frame Escape |  
 
+# Implementation
+
+A C implementation of encoding slip() and decoding unslip() functions operating on buffers are provided in attached [slip.c](slip.c) and [slip.h](slip.h).
 
