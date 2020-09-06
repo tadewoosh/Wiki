@@ -12,6 +12,7 @@ A Real-Time Executive for Multiprocessor Systems, as described on [Rtems](https:
 [Linux C: Serial Port and Sockets](Linux-c-serial-port-and-sockets.md) - a tutorial for writing a multitasking Linux bridge between Sockets and Serial Port.  
 
 ## Software
+[Bootloader](Bootloader.md) Some info on how to write a bootloader for STM32.
 [Linux Eclipse tutorial](Linux-eclipse-tutorial.md) - a tutorial on how to get and configure Eclipse to use a Makefile.  
 [Linux QT Tutorial for SerialServer](Linux-qt-tutorial-for-serialserver.md) - a tutorial on how to make a desktop app using QT.
 
