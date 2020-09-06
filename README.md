@@ -17,9 +17,8 @@ A Real-Time Executive for Multiprocessor Systems, as described on [Rtems](https:
 
 ## Hardware
 [Tms570 Develepment Board](Tms570-develepment-board.md) - info, links and stuff about the devboard.  
-
 ## Protocols
-[SLIP](Slip serial line internet protocol)  - Serial Line Internet Protocol, used for encapsulation of messages transmitted via UART.  
+[SLIP](Slip-serial-line-internet-protocol.md)  - Serial Line Internet Protocol, used for encapsulation of messages transmitted via UART.  
 
 ## Best Practises
 [Coding Standards](Coding-standards.md) - a short list of rules to follow when writing any C code for the project.    
