@@ -5,6 +5,11 @@ A project of a 3-axis cartesian CNC machine for woodworking and some ligth metal
 * [Electrical Project](https://github.com/tadewoosh/CNC-mill-electrical) 
 * [Mechanical Project](https://github.com/tadewoosh/CNC-mill-mechanical) 
 
+## Lighting controller
+A project of a multiroom/multichannel lighting system with mobile-app user interface. Consists of three repositories:
+* [Eagle PCB](): project of the hardware driver for one room, capable of driving two banks of RGB leds, one halogen set and two relays.
+* [ESP32 software](https://github.com/tadewoosh/esp32-wifi-leds) Software project based on ESP-IDF. WiFi UDP server and PWM control.
+* [Xamarin app]() for mobile devices to list and control of devices in local WiFi.
 
 # Knowledgebase
 A wiki containing some gathered knowledge and subjective experience. Not guaranteed to be true, but might be helpful.
