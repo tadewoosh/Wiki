@@ -36,3 +36,8 @@ A Real-Time Executive for Multiprocessor Systems, as described on [Rtems](https:
 
 ## Best Practises
 * [Coding Standards](Coding-standards.md) - a short list of rules to follow when writing any C code for the project.    
+
+
+# Disclaimer
+
+The material presented by the author on this github is provided to you "as-is" and without warranty of any kind, express, implied or otherwise, including without limitation, any warranty of fitness for a particular purpose.
